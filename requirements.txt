@@ -40,7 +40,6 @@ bytecode==0.17.0
 cachetools==5.5.2
 Camelot==12.6.29
 capsolver==1.0.7
-certifi @ file:///C:/Users/Prabin/Downloads/certifi-2025.4.26-py3-none-any.whl#sha256=30350364dfe371162649852c63336a15c70c6510c2ad5015b21c2345311805f3
 cffi==1.17.1
 chardet==5.2.0
 charset-normalizer==3.4.2
