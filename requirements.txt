@@ -161,7 +161,7 @@ networkx==3.5
 ninja==1.11.1.4
 numpy==2.3.0
 onepassword-sdk==0.3.0
-onnxruntime==1.16.3
+onnxruntime>=1.20.0
 openai==2.7.1
 openapi-core==0.19.5
 openapi-pydantic==0.5.1
