@@ -217,7 +217,6 @@ pdf2image==1.17.0
 pefile==2023.2.7
 pickleshare==0.7.5
 pillow==10.4.0
-pipreqs==0.5.0
 platformdirs==4.4.0
 playwright==1.46.0
 posthog==3.25.0
